@@ -1,0 +1,15 @@
+{
+  "name": "08-npm",
+  "version": "1.0.0",
+  "description": "lear nodejs npm",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Farrel Athaillah Putra",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.15.15"
+  }
+}

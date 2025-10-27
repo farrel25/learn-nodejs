@@ -3,6 +3,7 @@
 .idea/
 08-npm/node_modules/
 contact-app/data/
+contact-app/node_modules/
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
